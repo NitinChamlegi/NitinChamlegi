@@ -1,5 +1,5 @@
 <h1> I am Nitin <h1>
-<h4>A passinate web developer and web designer<h4>
+<h4>A passionate web developer and web designer<h4>
   - 👋 Hi, I’m <b>@NitinChamlegi</b> <br/>
 - 👀 I’m interested in <b>web designer<b/> <br/> 
 - 🌱 I’m currently learning <b>Full Stack web development and DSA<b/> <br/>
